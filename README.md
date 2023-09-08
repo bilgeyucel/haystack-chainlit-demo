@@ -21,7 +21,7 @@ export OPENAI_API_KEY=XXXX
 Then, run Chainlit:
 
 ```bash
-chainlit run conversational_agent.py
+chainlit run app.py
 ```
 
 The application will start at [http://localhost:8000](http://localhost:8000). You can immediately start chatting with your Haystack Agent using the Chainlit UI 💬  
