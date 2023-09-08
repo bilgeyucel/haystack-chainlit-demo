@@ -32,5 +32,7 @@ The application will start at [http://localhost:8000](http://localhost:8000). Yo
 
     It's because of grpcio. Check out this issue [#56](https://github.com/Chainlit/chainlit/issues/56) to solve.
 
+## Community 
 
+Join [Chainlit Discord](https://discord.gg/k73SQ3FyUh) and [Haystack Discord](https://discord.gg/haystack).
 
