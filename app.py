@@ -36,7 +36,7 @@ web_qa_tool = Tool(
 )
 
 conversational_agent_prompt_node = PromptNode(
-    "gpt-4",
+    "gpt-3.5-turbo",
     api_key=openai_api_key,
     max_length=256,
     stop_words=["Observation:"],
