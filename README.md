@@ -12,11 +12,11 @@ pip install -r requirements.txt
 
 ## Run
 
-Make sure you have [`SEARCH_API_KEY`](https://serper.dev/api-key) and [`OPENAI_API_KEY`](https://platform.openai.com/account/api-keys) variables in your environment.
+Make sure you have [`SEARCH_API_KEY`](https://serper.dev/api-key) and [`OPENAI_API_KEY`](https://platform.openai.com/account/api-keys) variables in your environment file `.env`.
 
-```bash
-export SEARCH_API_KEY=XXXX
-export OPENAI_API_KEY=XXXX
+```.env
+SEARCH_API_KEY=XXXX
+OPENAI_API_KEY=XXXX
 ```
 Then, run Chainlit:
 
